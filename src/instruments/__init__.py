@@ -24,6 +24,7 @@ from . import lakeshore
 from . import mettler_toledo
 from . import minghe
 from . import newport
+from . import oregon_physics
 from . import oxford
 from . import phasematrix
 from . import picowatt
